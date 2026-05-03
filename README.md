@@ -45,7 +45,7 @@ becomes 003020600900305001001806400008102900700000008006708200002609500800203009
 ## performance: 
 - Boards solved (out of total in sudokus_start.txt), Mean runtime, Min runtime, Max runtime, Std deviation
 
-## hard modeL 
+## hard mode: 
 - The solver also handles some of the hardest known Sudoku puzzles. This one is considered one of the most difficult ever constructed:
 800000000003600000070090200050007000000045700000100030001000068008500010090000400
 - Solution: 812753649943682175675491283154237896369845721287169534521974368438526917796318452
